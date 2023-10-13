@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './style.scss'; // Import the SCSS file
+
+// ... rest of your React component and rendering code
 
 const App = () => {
   return (
