@@ -1,0 +1,55 @@
+/* Reset some default styles */
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a default font and background color */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+}
+
+/* Header Styles */
+header {
+  background-color: burgundy;
+  color: white;
+  padding: 10px;
+}
+
+/* Navigation Styles */
+nav {
+  background-color: olive;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Section Styles */
+section {
+  padding: 20px;
+}
+
+/* About Us Section Styles */
+#about {
+  background-color: tan;
+}
+
+/* Contact Us Section Styles */
+#contact {
+  background-color: navy;
+  color: white;
+}
